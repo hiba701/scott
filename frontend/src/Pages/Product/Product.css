@@ -1,0 +1,34 @@
+.product {
+    padding: 150px;
+    background-color: #FFFFF0;
+
+}
+
+.proImg {
+    width: 2000px;
+    height: 450px;
+}
+
+.proCon {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info {
+    background-color: #F5F5DC;
+    padding: 20px;
+    color: #333333;
+    width: 50%;
+    margin-left: 295px;
+}
+
+.story {
+    width: 50%;
+    margin-left: 295px;
+}
+
+.nn {
+    /* margin-right: 200px; */
+    color: #333333;
+}
